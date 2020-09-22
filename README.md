@@ -1,16 +1,23 @@
-# currency_converter
+<h1 align="center">
+  <img alt="Currency Converter" src="https://raw.githubusercontent.com/Sup3r-Us3r/currencyconverter/master/currencyconverter.jpg" width="300px" />
+</h1>
 
-A new Flutter project.
+<h3 align="center">Currency Converter</h3>
 
-## Getting Started
+<p align="center">App created in Flutter to convert currency into Real, Dollar and Euro</p>
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <a href="https://github.com/Sup3r-Us3r">
+    <img alt="Made by Sup3r-Us3r" src="https://img.shields.io/badge/made%20by-Sup3r%20Us3r-%2304D361">
+  </a>
 
-A few resources to get you started if this is your first Flutter project:
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  <a href="https://github.com/Sup3r-Us3r/currencyconverter/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/Sup3r-Us3r/currencyconverter?style=social">
+  </a>
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <a href="https://github.com/Sup3r-Us3r/currencyconverter/blob/master/LICENSE" target="_blank">License</a>
+</p>
